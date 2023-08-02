@@ -198,7 +198,6 @@ body.dark .sidebar li a:hover .text {
 }
 
 .sidebar .menu-bar {
-    background: red;
     height: calc(100% -50px);
     display: flex;
     flex-direction: column;
